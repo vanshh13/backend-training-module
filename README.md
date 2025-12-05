@@ -36,3 +36,13 @@ docker-compose up --build
 ```bash
 0.0.0.0:5000/v1/user-service/health-check/
 ```
+```bash
+0.0.0.0:5000/v1/user-service/login/
+```
+```bash
+0.0.0.0:5000/v1/user-service/permission/module
+```
+```
+bash
+0.0.0.0:5000/v1/user-service/user-permission
+```
