@@ -29,3 +29,10 @@ In this module, I have learned **Clean Code Architecture** and how to integrate 
 
 ```bash
 docker-compose up --build
+```
+
+## How to Access Api
+
+```bash
+0.0.0.0:5000/v1/user-service/health-check/
+```
