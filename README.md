@@ -42,7 +42,6 @@ docker-compose up --build
 ```bash
 0.0.0.0:5000/v1/user-service/permission/module
 ```
-```
-bash
+```bash
 0.0.0.0:5000/v1/user-service/user-permission
 ```
